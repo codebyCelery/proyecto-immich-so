@@ -1,2 +1,2 @@
 # proyecto-immich-so
-Despliegue de microservicios con Podman rootless y control de recursos (CGroups) en Linux. Proyecto de Sistemas Operativos.
+Repositorio de evidencias para el laboratorio de Sistemas Operativos. Contiene los archivos de configuración para el despliegue de Immich usando Podman en modo rootless y las capturas que demuestran la limitación de memoria RAM a 250MB mediante el uso de CGroups en Linux."
