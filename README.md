@@ -32,5 +32,5 @@ cat /proc/$(sudo podman inspect -f '{{.State.Pid}}' immich_postgres)/status | gr
 curl -I http://localhost
 \`\`\`
 
-## Evidencias
-Las capturas de pantalla que validan la ejecución de estos comandos y el comportamiento del Sistema Operativo se encuentran adjuntas en este repositorio.
+## URL del video
+https://drive.google.com/file/d/1tCDNfDyhQxYqHp7l17fhRVWMyoDiEsoe/view?usp=sharing
